@@ -1,0 +1,1 @@
+# stripa-first-test
